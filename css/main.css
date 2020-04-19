@@ -70,9 +70,7 @@ header h1 {
 	width: 100%;
 	margin: 0;
 	padding: 38px 0;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	text-align: center;
 	border-bottom: 3px solid #77a466;
 }
 
@@ -227,13 +225,11 @@ footer span {
 	 display: flex;
 	 justify-content: space-between;
 	 flex-flow: row wrap;
-
  }
 
  header h1 {
 	 width: auto;
 	 border-bottom: 0;
-	 display: flex;
  }
 
   header nav ul {
